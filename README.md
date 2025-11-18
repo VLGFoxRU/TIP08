@@ -45,15 +45,29 @@ pz8-mongo/
 
 # Скриншоты
 
+Подготовка окружения:
+
+<img width="969" height="687" alt="image" src="https://github.com/user-attachments/assets/ac827d74-c4e7-4e5f-8515-90e4be998ee6" />
+
 Создать:
+
+<img width="1376" height="681" alt="image" src="https://github.com/user-attachments/assets/025d11ef-097e-452f-83d1-540b1ca5c78b" />
 
 Список:
 
+<img width="1377" height="726" alt="image" src="https://github.com/user-attachments/assets/970b3c38-624f-428e-9a24-b9d6ba59f1f2" />
+
 Получить по ID:
+
+<img width="1378" height="659" alt="image" src="https://github.com/user-attachments/assets/8b2d1fae-3e45-44cf-a26e-20ea10f47496" />
 
 Частичное обновление:
 
+<img width="1370" height="678" alt="image" src="https://github.com/user-attachments/assets/556b9302-8082-4c9a-bdeb-9c021fb67806" />
+
 Удаление:
+
+<img width="1376" height="537" alt="image" src="https://github.com/user-attachments/assets/1acc1e4d-19a4-47c6-891a-9ff320858c36" />
 
 # Ответы на контрольные вопросы
 
